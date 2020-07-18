@@ -1,0 +1,13 @@
+/home/alejandro/Desktop/Practicas/C#/Auxi/obj/Debug/netcoreapp3.1/Auxi.csprojAssemblyReference.cache
+/home/alejandro/Desktop/Practicas/C#/Auxi/obj/Debug/netcoreapp3.1/Auxi.AssemblyInfoInputs.cache
+/home/alejandro/Desktop/Practicas/C#/Auxi/obj/Debug/netcoreapp3.1/Auxi.AssemblyInfo.cs
+/home/alejandro/Desktop/Practicas/C#/Auxi/obj/Debug/netcoreapp3.1/Auxi.csproj.CoreCompileInputs.cache
+/home/alejandro/Desktop/Practicas/C#/Auxi/bin/Debug/netcoreapp3.1/Auxi
+/home/alejandro/Desktop/Practicas/C#/Auxi/bin/Debug/netcoreapp3.1/Auxi.deps.json
+/home/alejandro/Desktop/Practicas/C#/Auxi/bin/Debug/netcoreapp3.1/Auxi.runtimeconfig.json
+/home/alejandro/Desktop/Practicas/C#/Auxi/bin/Debug/netcoreapp3.1/Auxi.runtimeconfig.dev.json
+/home/alejandro/Desktop/Practicas/C#/Auxi/bin/Debug/netcoreapp3.1/Auxi.dll
+/home/alejandro/Desktop/Practicas/C#/Auxi/bin/Debug/netcoreapp3.1/Auxi.pdb
+/home/alejandro/Desktop/Practicas/C#/Auxi/obj/Debug/netcoreapp3.1/Auxi.dll
+/home/alejandro/Desktop/Practicas/C#/Auxi/obj/Debug/netcoreapp3.1/Auxi.pdb
+/home/alejandro/Desktop/Practicas/C#/Auxi/obj/Debug/netcoreapp3.1/Auxi.genruntimeconfig.cache
